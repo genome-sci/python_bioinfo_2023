@@ -30,7 +30,7 @@
 ### miniconda 仮想環境へのインストール
 miniconda は[公式ウェブサイト](https://docs.anaconda.com/free/miniconda/)の手順等に従ってインストールしてください。miniconda のかわりに Anaconda、miniforge、micromamba 等を使っても構いません。
 
-- 仮想環境の作成
+- 仮想環境の作成  
 `pags2023` という名称で仮想環境を作成し、Python 3.11 をインストールします。
 ```
 conda create -n pags2023 python=3.11
@@ -39,7 +39,7 @@ conda activate pags2023
 ```
 仮想環境から抜けるには `conda deactivate` を実行します。
 
-- モジュールのインストール。
+- モジュールのインストール  
 仮想環境 `pags2023` を有効化した状態で行なってください。
 ```
 conda install -c conda-forge jupyter
