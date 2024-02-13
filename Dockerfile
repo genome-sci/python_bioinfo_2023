@@ -29,6 +29,6 @@ EXPOSE 8888
 RUN echo "conda activate pags2023" >> /root/.bashrc
 
 # Run Jupyter Notebook when the container launches
-CMD ["conda", "run", "-n", "pags2023", "jupyter", "notebook", "--notebook-dir=/python_bioinfo_2023", "--ip='*'", "--port=8888", "--no-browser", "--allow-root", "--NotebookApp.token=''"]
+CMD ["conda", "run", "-n", "pags2023", "--no-capture-output", "jupyter", "notebook", "--notebook-dir=/python_bioinfo_2023", "--ip='*'", "--port=8888", "--no-browser", "--allow-root", "--NotebookApp.token=''"]
 # Equivalent as above, but using the shell.
 # CMD jupyter notebook --notebook-dir=/python_bioinfo_2023 --ip='*' --port=8888 --no-browser --allow-root --NotebookApp.token=''

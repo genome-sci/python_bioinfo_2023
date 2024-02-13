@@ -52,7 +52,19 @@ conda install -c conda-forge -c bioconda cellrank
 conda install -c conda-forge scikit-misc
 ```
 
+- Jupyter notebookの起動
+```
+# ソースコード取得
+git clone https://github.com/genome-sci/python_bioinfo_2023.git
 
+# ディレクトリに移動
+cd python_bioinfo_2023
+
+# jupyter notebook起動
+jupyter notebook
+```
+起動すると自動でWebブラウザが立ち上がります。
+Webブラウザが立ち上がらない場合には、http://localhost:8888/ にアクセスしてください。
 
 ### Docker を利用する場合
 ```
