@@ -10,18 +10,18 @@
 ## スケジュール
 【2月13日：1日目】	
 - 12：10～12：20　講習会説明
-- 12：20～13：50　Jupyter notebook、文字列処理/ファイルの読み書き/正規表現
-- 14：00～15：30　クラスの利用、Biopythonを用いた処理
-- 15：40～16：10　Numpy
-- 16：10～17：00　表形式ファイルの処理（Pandas）
+- 12：20～13：50　[1 Jupyter notebook、文字列処理/ファイルの読み書き/正規表現　千葉大　高橋弘喜](https://github.com/genome-sci/python_bioinfo_2023/tree/main/1)
+- 14：00～15：30　[1-2 クラスの利用、Biopythonを用いた処理　遺伝研　谷澤靖洋](https://github.com/genome-sci/python_bioinfo_2023/tree/main/1-2)
+- 15：40～16：10　[1-3 Numpy　遺伝研　東光一](https://github.com/genome-sci/python_bioinfo_2023/tree/main/1-3)
+- 16：10～17：00　[1-4 表形式ファイルの処理（Pandas）　遺伝研　坂本美佳](https://github.com/genome-sci/python_bioinfo_2023/tree/main/1-4)
 - 17：00～18：00　質疑応答
 
 【2月14日：2日目】
-- 9：20〜10：50　視覚化 (matplotlib, seaborn)
-- 11：00〜12：30　統計的仮説検定
+- 9：20〜10：50　[2-1 視覚化 (matplotlib, seaborn)　遺伝研　黒川真臣](https://github.com/genome-sci/python_bioinfo_2023/tree/main/2-1)
+- 11：00〜12：30　[2-2 統計的仮説検定　遺伝研　森宙史](https://github.com/genome-sci/python_bioinfo_2023/tree/main/2-2)
 - 12：30〜13：20　昼食休憩
-- 13：20〜14：50　Pythonを用いたシングルセルRNA-seq解析（基礎）
-- 15：00～17：00　Pythonを用いたシングルセルRNA-seq解析（発展）
+- 13：20〜14：50　[2-3 Pythonを用いたシングルセルRNA-seq解析（基礎）　遺伝研　望月孝子](https://github.com/genome-sci/python_bioinfo_2023/tree/main/2-3)
+- 15：00～17：00　[2-4 Pythonを用いたシングルセルRNA-seq解析（発展）　遺伝研　東光一](https://github.com/genome-sci/python_bioinfo_2023/tree/main/2-4)
 - 17：00～18：00　質疑応答
 
 
