@@ -57,7 +57,7 @@ conda install -c conda-forge scikit-misc
 ### Docker を利用する場合
 ```
 # ソースコード取得
-https://github.com/genome-sci/python_bioinfo_2023.git
+git clone https://github.com/genome-sci/python_bioinfo_2023.git
 
 # ディレクトリに移動
 cd python_bioinfo_2023
