@@ -1,5 +1,5 @@
 # Use miniconda3:23.10.0-1 as the base image
-FROM continuumio/miniconda3:23.10.0-1
+FROM --platform=linux/amd64 continuumio/miniconda3:23.10.0-1
 
 # Set the working directory in the container
 WORKDIR /python_bioinfo_2023
